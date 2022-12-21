@@ -1,0 +1,21 @@
+---
+tags:
+  - type/hub
+  - S/10/JaM
+---
+
+- [[Portfolio]]
+- [[Artist Inspirations]]
+- Aluminum Project:
+	- [[Aluminum Project Log]]
+	- [[Portfolio#Aluminum Project]]
+- Wire Project:
+	- [[Portfolio#Wire Project]]
+	- [[Wire and Soldering Notes]]
+- Riveting Project:
+	- [[Portfolio#Riveting Project]]
+- Sweat Soldering Project:
+	- [[Sweat Soldering Project]]
+	- [[Portfolio#Sweat Soldering Project]]
+- Combo Project:
+	- [[Portfolio#Combo Project]]
