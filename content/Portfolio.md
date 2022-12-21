@@ -53,7 +53,7 @@ Overall, this project was one of the easier ones. The sawing was easy (though I 
 
 ## Combo Project
 
-This was my favorite idea, a cat curled around a ball of "yarn".The most difficult part was getting it to wrap around the ball. The read ribbon is meant to be a collar, but it serves a dual purpose of hiding the mess up mouth stamp.
+This was my favorite idea, a cat curled around a ball of "yarn". The most difficult part was getting it to wrap around the ball. The read ribbon is meant to be a collar, but it serves a dual purpose of hiding the mess up mouth stamp.
 
 ![[media/EEAEEBAA-9C2E-4F63-9F54-2AC845F3C639.jpeg]]
 
