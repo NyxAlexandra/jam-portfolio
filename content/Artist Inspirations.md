@@ -1,4 +1,5 @@
 ---
+title: Artist Inspirations
 tags:
   - type/idk
   - stat/todo
@@ -7,6 +8,6 @@ tags:
 
 # Personal Interests
 
-![[media/2 of my violins.jpg]]
+![2 of my violins](media/2%20of%20my%20violins.jpg)
 
 placeholder

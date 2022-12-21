@@ -9,9 +9,9 @@ TAGS:
 
 | Tool          | Image                                                           |
 | ------------- | --------------------------------------------------------------- |
-| Round-Nose    | ![[media/A4835AF3-AF22-4A37-B634-7BA41AD4C6B8.jpeg\|256]] |
-| Chain-Nose    | ![[media/S.10.JaM. - Chain-Nose Pliers.jpeg\|256]] |
-| Flat-Nose     | ![[media/S.10.JaM. - Flat Nose Pliers.jpeg\|256]]utters | ![[media/S.10.JaM. - Flush Cutters.jpeg\|256]] |
+| Round-Nose    | ![256](media/A4835AF3-AF22-4A37-B634-7BA41AD4C6B8.jpeg) |
+| Chain-Nose    | ![256](media/S.10.JaM.%20-%20Chain-Nose%20Pliers.jpeg) |
+| Flat-Nose     | ![256](media/S.10.JaM.%20-%20Flat%20Nose%20Pliers.jpeg)utters | ![256](media/S.10.JaM.%20-%20Flush%20Cutters.jpeg) |
 
 # Hammer vs Mallet
 
@@ -22,7 +22,7 @@ TAGS:
 
 # Flux
 
-![[media/S.10.JaM. - Flux.jpeg]]
+![S.10.JaM. - Flux](media/S.10.JaM.%20-%20Flux.jpeg)
 
 - Flux: “a compound, often made with borax,  which is applied onto a joint before soldering to prevent oxides. Using flux keeps your piece clean, allowing the solder to flow easily once brought up to temperature.”
 
